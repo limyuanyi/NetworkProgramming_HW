@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "wait.h": "c",
+        "ctype.h": "c",
+        "sstream": "c"
+    }
+}
